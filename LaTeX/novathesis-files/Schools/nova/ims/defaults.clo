@@ -2,10 +2,10 @@
 %% defaults.clo
 %% NOVA thesis configuration file
 %%
-%% Costumization for NOVA-IMS (strings and cover)
+%% Customization for NOVA-IMS (strings and cover)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-% Univesity
+% University
 \university[pt]={Universidade NOVA de Lisboa}
 \university[en]={NOVA University Lisbon}
 \university[fr]={NOVA University Lisbon}
@@ -21,7 +21,7 @@
 \majorfield[pt]={Information Management}
 \majorfield[en]={Information Management}
 
-% Comiittee printing order
+% Committee printing order
 \committeeorder[all]={c,r,m}% 
 
 % Cover background images
@@ -128,10 +128,10 @@
 \dissertationstr[bsc,en]={Report submitted in partial fulfillment\\%
 of the requirements for the degree of\\[1ex]%
 \thedegreestr[\novathesis@opt@docdegree,\theauthorgender,\novathesis@opt@coverlang]\ in {\themajorfield[\novathesis@opt@coverlang]}}
-\dissertationstr[mscplan,en]={Dissertaion plan submitted in partial fulfillment\\%
+\dissertationstr[mscplan,en]={Dissertation plan submitted in partial fulfillment\\%
 of the requirements for the degree of\\[1ex]%
 \thedegreestr[\novathesis@opt@docdegree,\theauthorgender,\novathesis@opt@coverlang]\ in {\themajorfield[\novathesis@opt@coverlang]}}
-\dissertationstr[msc,en]={Dissertaion submitted in partial fulfillment\\%
+\dissertationstr[msc,en]={Dissertation submitted in partial fulfillment\\%
 of the requirements for the degree of\\[1ex]%
 \thedegreestr[\novathesis@opt@docdegree,\theauthorgender,\novathesis@opt@coverlang]\ in {\themajorfield[\novathesis@opt@coverlang]}}
 
