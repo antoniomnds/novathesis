@@ -2,20 +2,20 @@
 %% defaults.clo
 %% NOVA thesis configuration file
 %%
-%% Costumization for FC-UL (strings and cover)
+%% Customization for FC-UL (strings and cover)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 % Univesity
-\university[pt]={Universidade NOVA de Lisboa}
-\university[en]={NOVA University Lisbon}
-\university[fr]={NOVA University Lisbon}
-\university[it]={NOVA University Lisbon}
+\university[pt]={Universidade de Lisboa}
+\university[en]={University of Lisbon}
+\university[fr]={University of Lisbon}
+\university[it]={University of Lisbon}
 
 % Faculty / School
-\faculty[pt]={Faculdade de Ciências e Tecnologia}
-\faculty[en]={Faculty of Sciences and Technology}
-\faculty[fr]={Faculty of Sciences and Technology}
-\faculty[it]={Faculty of Sciences and Technology}
+\faculty[pt]={Faculdade de Ciências}
+\faculty[en]={Faculty of Sciences}
+\faculty[fr]={Faculty of Sciences}
+\faculty[it]={Faculty of Sciences}
 
 % Scientific field
 \majorfield[pt]={Engenharia Informática}
@@ -30,7 +30,7 @@
 \specialization[en]={Specialization in Computer Vision}
 
 
-% Comiittee printing order
+% Committee printing order
 \committeeorder[all]={c,r,a,m}% 
 
 % Cover background images
