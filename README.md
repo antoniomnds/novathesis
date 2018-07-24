@@ -1,8 +1,8 @@
 # novathesis
 
-The NOVAthesis LaTeX class is a thesis template initially designed for the PhD and MSc thesis at [FCT Universidade NOVA de Lisboa (FCT-NOVA)](http://www.fct.nova.pt), Portugal. The class provides utilities to easily set up the cover page, the front matter pages, the page headers, etc. with respect to the official guidelines of the FCT-NOVA for writing PhD dissertations.
+The NOVAthesis LaTeX class is a thesis template initially designed for the PhD and MSc thesis at [FCT Universidade NOVA de Lisboa (FCT-NOVA)](http://www.fct.unl.pt), Portugal. The class provides utilities to easily set up the cover page, the front matter pages, the page headers, etc. with respect to the official guidelines of the FCT-NOVA for writing PhD dissertations.
 
-The template is easily customizable, including the support for other institutions as well. Currently the template supports out-of-thebox (at least): 17 Chapter Styles, 7 font sets, 4 schools.  If you customize this template for your institution or add new style files, please [let me knwow](http://docentes.fct.unl.pt/joao-lourenco) about the thorns in the process, so that I can work a bit to smooth them.  Thanks!
+The template is easily customizable, including the support for other institutions as well. Currently the template supports out-of-the-box (at least): 17 Chapter Styles, 7 font sets, 5 schools.  If you customize this template for your institution or add new style files, please [let me know](http://docentes.fct.unl.pt/joao-lourenco) about the thorns in the process, so that I can work a bit to smooth them.  Thanks!
 
 *This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/.*
 
@@ -11,7 +11,7 @@ The template is easily customizable, including the support for other institution
 
 ### Download
 
-Get the latest realease from the [releases page](https://github.com/joaomlourenco/novathesis/releases)!
+Get the latest release from the [releases page](https://github.com/joaomlourenco/novathesis/releases)!
 
 ### Problems and Difficulties
 
@@ -78,9 +78,9 @@ NOTE: see the file `changelog.txt` for the complete listing of changes.
 
 *2016-02-22 — Version 3.1.1 — NOVA IMS improved*
 + Added support for NOVA IMS (new PhD template)
-+ Added support for local (per school) "spine.clo" files. The main one is only used in no local version of the file is supplied.
++ Added support for local (per school) "spine.clo" files. The main one is only used if no local version of the file is supplied.
 + Added support for "back cover" and "book spine" images in defaults.clo
-+ Now using an altrnative "spine.clo" (thanks to Tomás Monteiro <monteiro.tomas@gmail.com>)
++ Now using an alternative "spine.clo" (thanks to Tomás Monteiro <monteiro.tomas@gmail.com>)
 + Minor fixes for NOVA IMS
 
 *2016-01-07 — Version 3.1.0 — NOVA IMS*
